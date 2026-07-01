@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6v0033/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0033/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 因緣心論頌
+  identifiers:
+    krp: KR6v0033
+    cbeta: ZW03n0026
+    cbeta_old_id: ZW03n0026
+    authorityid: CA0008406
+    json_key: ZW0026
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW03/ZW03n0026.xml
+    old_id: ZW03n0026
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0033_000-ZW.yaml, hash: 'sha256:2395e505fc6d3d9a20ede2d4202e7c1d063fd902a5ef26de47bce8114e2cb3a7'}
+  - {seq: 1, filename: KR6v0033_001-ZW.yaml, hash: 'sha256:eaae269c796c8455872cdbf6d12899a899ff19c2f238f1fa79f5437712a0b92d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0033_000-ZW.markers.yaml, hash: 'sha256:12ec099c7d901933ec2790ba0c5d9282e8d2232ed6f6929fe5e79ffef0551586'}
+  - {seq: 1, role: markers, filename: assets/KR6v0033_001-ZW.markers.yaml, hash: 'sha256:7d2df23e8bc0a81772ddbaa6eef82ad50cce4c341a406d8ab43f851a99a71784'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0033_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0033_ZW_000-mulu-2
+    span:
+    - front
+    - 391
+    - 391
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0033_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 148
+  label: 因緣心論頌
+  type: juan
+  level: 1
+hash: sha256:a880d27d4754835e8d7082649014967742fe5b58a578c2b50bbe803a7ead832c
