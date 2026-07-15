@@ -11,6 +11,7 @@ markers:
   - {type: xml-element, offset: 5, content: '', id: lgZW03p0216a0601, name: lg, role: open, attrs: {'xml:id': lgZW03p0216a0601, style: 'margin-left:0em;text-indent:0em;'}}
   - {type: punctuation, offset: 10, content: 。, id: KR6v0033_ZW_001-bkkpn1}
   - {type: punctuation, offset: 10, content: ，, id: KR6v0033_ZW_001-bkkpn2}
+  - {type: substitution, offset: 12, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 15, content: ，, id: KR6v0033_ZW_001-bkkpn3}
   - {type: line-break, offset: 15, content: '', id: KR6v0033_ZW_001-0216a07, ed: ZW, 'n': 0216a07}
   - {type: punctuation, offset: 20, content: 。, id: KR6v0033_ZW_001-bkkpn4}
@@ -34,6 +35,7 @@ markers:
   - {type: punctuation, offset: 65, content: 。, id: KR6v0033_ZW_001-bkkpn18}
   - {type: line-break, offset: 65, content: '', id: KR6v0033_ZW_001-0216a12, ed: ZW, 'n': 0216a12}
   - {type: punctuation, offset: 70, content: ，, id: KR6v0033_ZW_001-bkkpn19}
+  - {type: substitution, offset: 73, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 75, content: ，, id: KR6v0033_ZW_001-bkkpn20}
   - {type: line-break, offset: 75, content: '', id: KR6v0033_ZW_001-0216a13, ed: ZW, 'n': 0216a13}
   - {type: punctuation, offset: 80, content: 。, id: KR6v0033_ZW_001-bkkpn21}
@@ -71,7 +73,8 @@ markers:
   - {type: line-break, offset: 145, content: '', id: KR6v0033_ZW_001-0217a06, ed: ZW, 'n': 0217a06}
   - {type: xml-element, offset: 145, content: '', id: pZW03p0217a0601, name: p, role: open, attrs: {'xml:id': pZW03p0217a0601}}
   - {type: punctuation, offset: 145, content: 〔, id: KR6v0033_ZW_001-bkkpn42}
+  - {type: substitution, offset: 145, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 148, content: 〕, id: KR6v0033_ZW_001-bkkpn43}
   - {type: xml-element, offset: 148, content: '', id: pZW03p0217a0601_end, name: p, role: close, attrs: {'xml:id': pZW03p0217a0601}}
   back: []
-hash: sha256:9f94ccb636f749caf3551188cdcf9866f866fa13c1e92bd6e4f563cbaf9db4c2
+hash: sha256:4a208e0f9e8ba4e50d4ecdcbd0bfe4604c0ea6237148d7f31c74250335c309ba

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 龍猛菩薩作差別十二支能仁說緣生於煩惱業苦三中俱攝盡初八九煩惱二及十是業餘七皆是苦十二唯三攝從三生於二從二生於七七復生於三此有輪數轉諸趣唯因果此中無眾生唯從於空法還生於空法誦燈鏡及印火精種梅聲諸蘊相續結不移智應察於甚微細事若有見斷者彼不善因緣未見緣生義此中無可遣亦無少安立於真以觀真見真而解脫錄文完
-  hash: sha256:accb4d8ee984dc664e4f433fa359a480beb9d77ee743414edf5aaa54ca44e5b8
+  text: 龍猛菩薩作差別十二支能仁説緣生於煩惱業苦三中俱攝盡初八九煩惱二及十是業餘七皆是苦十二唯三攝從三生於二從二生於七七復生於三此有輪數轉諸趣唯因果此中無衆生唯從於空法還生於空法誦燈鏡及印火精種梅聲諸蘊相續結不移智應察於甚微細事若有見斷者彼不善因緣未見緣生義此中無可遣亦無少安立於真以觀真見真而解脫録文完
+  hash: sha256:cea371c124e49971900d9bf06ddc5b78037ef258d3d7c2218bcb8c717e304e5b
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: 因緣心論頌, id: KR6v0033_ZW_001-juan-start, juan_n: '001', jhead: 因緣心論頌}
   - {type: 'cbeta:juan-end', offset: 145, content: 因緣心論頌, id: KR6v0033_ZW_001-juan-end, juan_n: '001', jhead: 因緣心論頌}
@@ -17,4 +17,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/ZW/ZW03/ZW03n0026.xml
     old_id: ZW03n0026
-hash: sha256:eaae269c796c8455872cdbf6d12899a899ff19c2f238f1fa79f5437712a0b92d
+hash: sha256:d94473f0fdcb2ab813edb18b75fa862f5b1e4471bee72115f8429c4c6cf11950
