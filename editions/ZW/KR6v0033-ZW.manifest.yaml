@@ -19,17 +19,17 @@ metadata:
     short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0033_000-ZW.yaml, hash: 'sha256:2395e505fc6d3d9a20ede2d4202e7c1d063fd902a5ef26de47bce8114e2cb3a7'}
+  - {seq: 0, filename: KR6v0033_000-ZW.yaml, hash: 'sha256:c72065ea6d69364cebcb9d845f00c50e0ebcaa934c4b8a79221a977325bb5d18'}
   - {seq: 1, filename: KR6v0033_001-ZW.yaml, hash: 'sha256:eaae269c796c8455872cdbf6d12899a899ff19c2f238f1fa79f5437712a0b92d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0033_000-ZW.markers.yaml, hash: 'sha256:12ec099c7d901933ec2790ba0c5d9282e8d2232ed6f6929fe5e79ffef0551586'}
+  - {seq: 0, role: markers, filename: assets/KR6v0033_000-ZW.markers.yaml, hash: 'sha256:d254d6268ef7bf621eb2c0a70bd777d750978fabf135e90bfdb833eddbb92602'}
   - {seq: 1, role: markers, filename: assets/KR6v0033_001-ZW.markers.yaml, hash: 'sha256:7d2df23e8bc0a81772ddbaa6eef82ad50cce4c341a406d8ab43f851a99a71784'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0033_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0033_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 391
     - 391
   label: 錄文
@@ -55,4 +55,4 @@ table_of_contents:
   label: 因緣心論頌
   type: juan
   level: 1
-hash: sha256:a880d27d4754835e8d7082649014967742fe5b58a578c2b50bbe803a7ead832c
+hash: sha256:555aa1b7bb661dd0c5f4cddf378ba0308995a703adfcbe52a20b7f6ac3fe8ae8
